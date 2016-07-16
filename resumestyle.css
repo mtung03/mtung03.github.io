@@ -4,6 +4,11 @@ body {
 	font-family: "Times New Roman";
 }
 
+img {
+	max-height: 200px;
+	max-width: 100px;
+}
+
 .header {
 	text-align: center;
 }
@@ -34,4 +39,8 @@ body {
 .dates {
 	font-weight: bold;
 	float: right;
+}
+ 
+.centered {
+	text-align: center;
 }
