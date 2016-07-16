@@ -1,1 +1,36 @@
-// stylesheet for Maxwell Tung's resume
+/* stylesheet for Maxwell Tung's resume */
+
+body {
+	font-family: "Times New Roman";
+}
+
+.header {
+	text-align: center;
+}
+
+.contact-info {
+	font-size: 12px;
+}
+
+.main-section {
+
+}
+
+.section-head {
+	font-size: 13px;
+	text-decoration: underline;
+}
+
+/* college */
+.institution {
+
+}
+
+.place {
+	font-weight: bold;
+}
+
+location
+.dates {
+	font-weight: bold;
+}
