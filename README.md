@@ -2,6 +2,8 @@ Readme for Maxwell Tung's portfolio
 
 Personal website containing a short bio and resume, as well as a picture
 
+Hours spent: ~3
+
 Files:
 
 resume.html - info entered
